@@ -52,15 +52,18 @@ a:hover {
   background-color:  #b3e6ff;
 }
 .middle-container {
-  margin: 0;
+  margin:20px 0px 50px 0;
 }
 .bottom-container{
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
+.profile{
+  margin:10px;
+}
 .skills{
   margin:10px;
-  padding:20px;
+  padding:10px;
 }
 .skill-row{
   line-height: 2;
@@ -77,7 +80,7 @@ a:hover {
   margin:40px auto;
 }
 .me{
-  width:35%;
+  width:40%;
   margin: auto;
 }
 .copyright{
