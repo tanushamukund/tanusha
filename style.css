@@ -26,6 +26,7 @@ h3 {
 }
 
 p {
+  font-size:larger;
   line-height: 2;
 }
 
@@ -73,12 +74,13 @@ a:hover {
 }
 
 .intro {
-  width: 30%;
+  font-weight:bold;
+  width: 50%;
   margin: auto;
 }
 
-.contact-message {
-  width: 40%;
+.contact{
+  width: 50%;
   margin: 40px auto 60px;
 }
 
