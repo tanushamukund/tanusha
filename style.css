@@ -20,6 +20,7 @@ h2{
 h3{
   color:#11999E;
   font-family: 'Poiret One', cursive;
+  font-weight:bold;
 }
 p{
   line-height: 2;
@@ -49,6 +50,7 @@ a:hover {
   position: relative;
   padding-top:100px;
   background-color:  #b3e6ff;
+  width:100%;
 }
 .middle-container {
   margin:60px 0px 50px 0;
