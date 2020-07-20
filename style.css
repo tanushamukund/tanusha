@@ -42,7 +42,7 @@ a:hover {
   color: #EAF6F6;
 }
 .dance-description{
-  width:760px;
+  width:600px;
 }
 .Programmer{
   font-weight: normal;
@@ -74,18 +74,19 @@ a:hover {
   width:50%;
 }
 .intro{
+  width:600px;
   padding-top:10px;
 }
 .contact{
-  width:40%;
+  width:600px;
   margin:0px auto 30px auto;
 }
 .me{
-  width:60%;
+  width:600px;
   margin: auto;
 }
 .copyright{
-  width:30%;
+  width:60%;
   margin: auto;
   padding: 20px 0;
   font-size: 0.75rem;
@@ -112,7 +113,7 @@ span{
 }
 
 .footer-link{
-  color:#11999E;
+  color: #000000;
 }
 .code{
   margin-right:30px;
