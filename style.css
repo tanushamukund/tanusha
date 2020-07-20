@@ -63,13 +63,12 @@ a:hover {
   margin: 60px auto;
 }
 .skills{
-  margin:0px 10px;
-  padding:10px;
+  margin:0 0;
 }
 .skill-row{
   line-height: 2;
   text-align:left;
-  margin:100px auto;
+  margin:50px auto;
   width:50%;
 }
 .intro{
@@ -77,7 +76,7 @@ a:hover {
 }
 .contact{
   width:40%;
-  margin:40px auto;
+  margin:0px auto 30px auto;
 }
 .me{
   width:40%;
@@ -119,7 +118,7 @@ span{
   width: 25%;
 }
 .dancer{
-  padding: 30px;
+  padding-left: 30px;
   float: right;
   width: 25%;
 }
