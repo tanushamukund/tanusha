@@ -15,7 +15,7 @@ h2{
   color: #00b3b3;
   font-family: 'Patrick Hand', cursive;
   font-size: 2.5rem;
-  font-weight: normal;
+  font-weight: bold;
   padding-bottom: 10px;
 }
 h3{
@@ -41,7 +41,7 @@ a:hover {
   color: #EAF6F6;
 }
 .dance-description{
-  width:50%;
+  width:760px;
 }
 .Programmer{
   font-weight: normal;
@@ -72,6 +72,7 @@ a:hover {
   width:50%;
 }
 .intro{
+  width:600px;
   padding-top:10px;
 }
 .contact{
@@ -79,7 +80,7 @@ a:hover {
   margin:0px auto 30px auto;
 }
 .me{
-  width:40%;
+  width:60%;
   margin: auto;
 }
 .copyright{
@@ -102,7 +103,7 @@ span{
 .bottom-cloud{
   position:absolute;
   left:300px;
-  top:350px;
+  bottom:300px;
 }
 
 .mountain{
