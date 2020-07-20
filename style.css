@@ -52,7 +52,7 @@ a:hover {
   background-color:  #b3e6ff;
 }
 .middle-container {
-  margin:20px 0px 50px 0;
+  margin:60px 0px 50px 0;
 }
 .bottom-container{
   background-color: #66BFBF;
@@ -129,7 +129,7 @@ span{
   width: 25%;
 }
 .tanu{
-  width:150px;
+  width:25%;
 }
 .btn {
     box-shadow: 0px 1px 0px 0px #f0f7fa;
