@@ -26,7 +26,7 @@ h3 {
 }
 
 p {
-  font-size:larger;
+  font-size:1.5rem;
   line-height: 2;
 }
 
@@ -74,7 +74,7 @@ a:hover {
 }
 
 .intro {
-  font-weight:bold;
+  font-weight:normal;
   width: 50%;
   margin: auto;
 }
@@ -113,7 +113,9 @@ a:hover {
   float: right;
   margin-left: 30px;
 }
-
+tanu{
+  width:30%;
+}
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
