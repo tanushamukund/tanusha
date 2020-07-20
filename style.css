@@ -1,5 +1,6 @@
 body{
   color:#40514E;
+  padding:0;
   margin:0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -51,7 +52,6 @@ a:hover {
   position: relative;
   padding-top:100px;
   background-color:  #b3e6ff;
-  width:100%;
 }
 .middle-container {
   margin:60px 0px 50px 0;
@@ -74,23 +74,20 @@ a:hover {
   width:50%;
 }
 .intro{
+  text-align:center;
   min-width:800px;
   max-width:1200px;
   padding-top:10px;
 }
 .contact{
-  min-width:800px;
-  max-width:1200px;
+  width:60%;
   margin:0px auto 30px auto;
 }
 .me{
-  min-width:800px;
-  max-width:1200px;
+  width:60%;
   margin: auto;
 }
 .copyright{
-  wmin-width:800px;
-  max-width:1200px;
   margin: auto;
   padding: 20px 0;
   font-size: 2rem;
