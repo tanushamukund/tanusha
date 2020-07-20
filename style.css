@@ -74,22 +74,26 @@ a:hover {
   width:50%;
 }
 .intro{
-  width:600px;
+  min-width:800px;
+  max-width:1200px;
   padding-top:10px;
 }
 .contact{
-  width:600px;
+  min-width:800px;
+  max-width:1200px;
   margin:0px auto 30px auto;
 }
 .me{
-  width:600px;
+  min-width:800px;
+  max-width:1200px;
   margin: auto;
 }
 .copyright{
-  width:60%;
+  wmin-width:800px;
+  max-width:1200px;
   margin: auto;
   padding: 20px 0;
-  font-size: 0.75rem;
+  font-size: 2rem;
   color: #EAF6F6;
 }
 .top-cloud{
@@ -113,6 +117,8 @@ span{
 }
 
 .footer-link{
+  min-width:800px;
+  max-width:1200px;
   color: #000000;
 }
 .code{
