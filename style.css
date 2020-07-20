@@ -1,6 +1,6 @@
 body{
   color:#40514E;
-  margin:0;
+  margin:0 0 0 0;
   text-align: center;
   font-family: 'Merriweather', serif;
   font-family: 'Roboto Slab', serif;
@@ -72,6 +72,7 @@ a:hover {
   width:50%;
 }
 .intro{
+  margin:auto;
   width:600px;
   padding-top:10px;
 }
