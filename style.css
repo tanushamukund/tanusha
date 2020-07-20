@@ -29,7 +29,7 @@ hr{
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 4%;
-  margin: 10px auto;
+  margin: 100px auto;
 }
 a{
   color: #11999E;
@@ -60,7 +60,7 @@ a:hover {
 }
 .profile{
   width:40%;
-  margin:auto;
+  margin: 60px auto;
 }
 .skills{
   margin:0px 10px;
