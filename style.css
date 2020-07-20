@@ -72,8 +72,6 @@ a:hover {
   width:50%;
 }
 .intro{
-  margin:auto;
-  width:600px;
   padding-top:10px;
 }
 .contact{
@@ -130,7 +128,7 @@ span{
   width: 25%;
 }
 .tanu{
-  width:25%;
+  width:40%;
 }
 .btn {
     box-shadow: 0px 1px 0px 0px #f0f7fa;
