@@ -1,0 +1,12 @@
+main
+	MOV R1, #5
+	MOV R2, #1
+	BL REK
+STOP B STOP
+REK
+	CMP R1, #0
+	IT EQ
+	BXEQ LR
+	MUL R2, R2, R1
+	SUB R1, R1, #1
+	BL REK
